@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528069972 source:d:\projelerim\codeblocksprojeleri\struct-ogrenci-puan-hesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
